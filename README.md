@@ -8,10 +8,10 @@ I'm a developer enthusiastic about learning new technologies and coding. Welcome
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Java and C#** projects.
-- 🌱 I’m currently learning **[Software Architecture / .NET Core / Spring Boot]**.
-- 🎓 I’m studying at **[Dokuz Eylul University]** / I’m a self-taught developer.
+- 🌱 I’m currently learning **Software Architecture / .NET Core / Spring Boot**.
+- 🎓 I’m studying at **Dokuz Eylul University** / I’m a self-taught developer.
 - 💬 Ask me about **Java, C#, and Object-Oriented Programming**.
-- 📫 How to reach me: **[yigityilmaz.me@gmail.com]**
+- 📫 How to reach me: **yigityilmaz.me@gmail.com**
 
 ---
 
