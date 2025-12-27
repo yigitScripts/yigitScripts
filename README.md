@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi there, I'm Yiğit!</h2>
+  <h2>Hi there, I'm Yiğit Yılmaz!</h2>
   <p>A computer engineering student who loves to code and is hungry to learn.</p>
 </div>
 
@@ -29,8 +29,7 @@ Here are my favorite toys:
   <br/>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ---
@@ -48,7 +47,7 @@ My current focus and where I see myself in the future:
 <div align="center">
   <p><i>If you want to get in touch or check out my projects:</i></p>
   
-  <a href="www.linkedin.com/in/myigityilmaz">
+  <a href="https://www.linkedin.com/in/myigityilmaz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yigityilmaz.me@gmail.com">
