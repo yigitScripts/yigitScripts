@@ -1,19 +1,26 @@
 <div align="center">
-
-  <h1>Hi, I'm Yiğit.</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   
-  <h3>Java Backend Developer | Software Architecture Enthusiast</h3>
+  <h1>Hi there, I'm Yiğit!</h1>
+  
+  <h3>Backend Developer | Software Architecture Enthusiast 🏗️</h3>
 
+  <br>
+
+  <h4>
+    I am a passionate software developer focused on building <br> 
+    scalable back-end systems and writing efficient code.
+  </h4>
+  
   <p>
-    I am a passionate software developer focused on building scalable back-end systems and writing efficient code.
-    <br>
-    My journey is driven by a curiosity for how software works under the hood—from memory management to system design.
+    My journey is driven by a curiosity for how software works under the hood—<br>
+    from memory management to system design.
   </p>
   
   <br>
 
-  <a href="https://linkedin.com/in/senin-kullanici-adin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/myigityilmaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 </div>
@@ -21,17 +28,17 @@
 <br>
 <hr>
 
-### 👨‍💻 About Me
+### ⚡ A Little More About Me
 
 I have been immersed in the **Java ecosystem** for over a year, building a strong foundation in **Data Structures and Algorithms**. I believe that understanding the core logic is more important than just learning frameworks.
 
-* **Current Focus:** I am strengthening my skills in backend development while exploring the principles of **Software Architecture**.
-* **What I Build:** I enjoy working on logic-intensive projects. My portfolio includes custom **file I/O analysis tools** and interactive **terminal-based applications** that require complex state management.
-* **Future Goal:** My long-term roadmap involves mastering Cloud/DevOps practices and evolving into a technical leadership role.
+* 🔭 **Current Focus:** Strengthening my skills in backend development while exploring **Software Architecture** principles.
+* 💻 **What I Build:** Logic-intensive projects like custom **file I/O analysis tools** and interactive **terminal-based applications** that require complex state management.
+* 🎯 **Future Goal:** Mastering Cloud/DevOps practices and evolving into a technical leadership role.
 
 <br>
 
-### 🛠️ Technical Skills
+### 🛠️ Languages & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -45,7 +52,7 @@ I have been immersed in the **Java ecosystem** for over a year, building a stron
 
 <br>
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <table style="border: none;">
