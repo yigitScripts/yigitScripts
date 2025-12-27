@@ -1,56 +1,65 @@
 <div align="center">
 
-  <h1>Hi there, I'm Yiğit! 👋</h1>
+  <h1>Hi, I'm Yiğit.</h1>
   
-  <h3>Backend Developer | Software Architecture Enthusiast 🏗️</h3>
+  <h3>Java Backend Developer | Software Architecture Enthusiast</h3>
 
   <p>
-    I'm a passionate developer focused on the logic behind the scenes. 
-    I love solving problems with <b>Java</b> and diving deep into <b>Data Structures & Algorithms</b>.
+    I am a passionate software developer focused on building scalable back-end systems and writing efficient code.
+    <br>
+    My journey is driven by a curiosity for how software works under the hood—from memory management to system design.
   </p>
-
-  <p>
-    I enjoy building terminal-based tools (even a classic Snake game 🐍) and working with file I/O operations.
-    Currently, I'm sharpening my backend skills while keeping an eye on <b>Software Architecture</b> concepts for the future.
-  </p>
+  
+  <br>
 
   <a href="https://linkedin.com/in/senin-kullanici-adin" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
 </div>
 
-<hr/>
+<br>
+<hr>
 
-### ⚡ A little more about me...
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Advanced Java & Algorithms.**
-- 🌱 I’m currently learning **Backend Design Patterns.**
-- 🎯 My goal: Writing clean, efficient code and understanding how complex systems work together.
-- 💬 Ask me about **Java, Logic Building, or Data Structures.**
-- ⚡ Fun fact: I believe everything can be solved with a good algorithm (and enough coffee ☕).
+I have been immersed in the **Java ecosystem** for over a year, building a strong foundation in **Data Structures and Algorithms**. I believe that understanding the core logic is more important than just learning frameworks.
 
-<br/>
+* **Current Focus:** I am strengthening my skills in backend development while exploring the principles of **Software Architecture**.
+* **What I Build:** I enjoy working on logic-intensive projects. My portfolio includes custom **file I/O analysis tools** and interactive **terminal-based applications** that require complex state management.
+* **Future Goal:** My long-term roadmap involves mastering Cloud/DevOps practices and evolving into a technical leadership role.
 
-### 🛠️ Languages & Tools
+<br>
+
+### 🛠️ Technical Skills
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Data_Structures-1F425F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
-<br/>
+<br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yigitScripts&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yigitScripts&theme=radical&hide_border=true&background=0d1117" height="150" alt="streak graph" />
-</div>
+### 📈 GitHub Stats
 
 <div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=yigitScripts&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=adbac7&icon_color=0077B5&count_private=true" alt="Yiğit's Stats" height="160"/>
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yigitScripts&theme=transparent&hide_border=true&ring=0077B5&currStreakLabel=0077B5&fire=0077B5" alt="Yiğit's Streak" height="160"/>
+      </td>
+    </tr>
+  </table>
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitScripts&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitScripts&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=adbac7" alt="Top Languages" />
 </div>
