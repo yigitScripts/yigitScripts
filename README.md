@@ -1,72 +1,57 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  
-  <h1>Hi there, I'm Yiğit!</h1>
-  
-  <h3>Backend Developer | Software Architecture Enthusiast 🏗️</h3>
-
-  <br>
-
-  <h4>
-    I am a passionate software developer focused on building <br> 
-    scalable back-end systems and writing efficient code.
-  </h4>
-  
-  <p>
-    My journey is driven by a curiosity for how software works under the hood—<br>
-    from memory management to system design.
-  </p>
-  
-  <br>
-
-  <a href="https://linkedin.com/in/myigityilmaz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </div>
-
-<br>
-<hr>
-
-### ⚡ A Little More About Me
-
-I have been immersed in the **Java ecosystem** for over a year, building a strong foundation in **Data Structures and Algorithms**. I believe that understanding the core logic is more important than just learning frameworks.
-
-* 🔭 **Current Focus:** Strengthening my skills in backend development while exploring **Software Architecture** principles.
-* 💻 **What I Build:** Logic-intensive projects like custom **file I/O analysis tools** and interactive **terminal-based applications** that require complex state management.
-* 🎯 **Future Goal:** Mastering Cloud/DevOps practices and evolving into a technical leadership role.
-
-<br>
-
-### 🛠️ Languages & Tools
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Data_Structures-1F425F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br>
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=yigitScripts&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=adbac7&icon_color=0077B5&count_private=true" alt="Yiğit's Stats" height="160"/>
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yigitScripts&theme=transparent&hide_border=true&ring=0077B5&currStreakLabel=0077B5&fire=0077B5" alt="Yiğit's Streak" height="160"/>
-      </td>
-    </tr>
-  </table>
+  <h2>Hi there, I'm Yiğit!</h2>
+  <p>A computer engineering student who loves to code and is hungry to learn.</p>
+</div>
+
+---
+
+### 👾 Who Am I?
+
+I'm currently studying **Computer Engineering** at **Dokuz Eylül University**. I love grabbing my coffee, diving deep into code, and exploring new technologies.
+
+I especially enjoy spending time in the backend world with **Java** and **C#**. I'm at the beginning of my journey, but I aim to climb the steps one by one and build a solid career in software engineering. 🚀
+
+---
+
+### 🛠️ Tech Stack
+
+Here are my favorite toys:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
-  <br>
+  <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitScripts&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=adbac7&v=2" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### 🎯 My Roadmap
+
+My current focus and where I see myself in the future:
+
+* 🐣 **Now:** Backend Architectures, Data Structures & Algorithms
+* 🐥 **Soon:** Cloud & DevOps world
+* 🦅 **Future:** Software Architecture
+
+---
+
+<div align="center">
+  <p><i>If you want to get in touch or check out my projects:</i></p>
+  
+  <a href="www.linkedin.com/in/myigityilmaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yigityilmaz.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </div>
