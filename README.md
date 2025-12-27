@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi there, I'm Yiğit Yılmaz!</h2>
+  <h2>Hi there, I'm Yiğit!</h2>
   <p>A computer engineering student who loves to code and is hungry to learn.</p>
 </div>
 
