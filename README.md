@@ -68,5 +68,5 @@ I have been immersed in the **Java ecosystem** for over a year, building a stron
   
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitScripts&layout=compact&theme=vision-friendly-dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitScripts&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=adbac7&v=2" alt="Top Languages" />
 </div>
