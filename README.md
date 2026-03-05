@@ -50,7 +50,7 @@ My current focus and where I see myself in the future:
   <a href="https://www.linkedin.com/in/myigityilmaz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yigityilmaz.me@gmail.com">
+  <a href="mailto:myigity.my@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
