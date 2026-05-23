@@ -1,56 +1,37 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</div>
+# Hi, I'm Yiğit! 👋
 
-<div align="center">
-  <h2>Hi there, I'm Yiğit!</h2>
-  <p>A computer engineering student who loves to code and is hungry to learn.</p>
-</div>
+**Backend Developer | AI-Integrated Systems**
+
+I'm into backend development and software architecture — how systems are structured, how services communicate, and what actually makes code maintainable. I spend most of my time thinking about those problems. On the side, I've been integrating AI models into backend systems: local inference, RAG pipelines, fine-tuning. Not as the main thing, but as a natural extension of building smarter backends.
 
 ---
 
-### 👾 Who Am I?
+### 🚀 What I'm Exploring
 
-I'm currently studying **Computer Engineering** at **Dokuz Eylül University**. I love grabbing my coffee, diving deep into code, and exploring new technologies.
-
-I especially enjoy spending time in the backend world with **Java** and **C#**. I'm at the beginning of my journey, but I aim to climb the steps one by one and build a solid career in software engineering. 🚀
+- **Backend Architecture:** Designing clean, maintainable systems with solid separation of concerns and well-thought-out service boundaries.
+- **AI Integration:** Embedding models into backend pipelines — RAG, local inference with Ollama, and fine-tuning for domain-specific tasks.
+- **Systems Thinking:** Understanding what happens under the hood — from how vector databases index embeddings to why context management is the real hard problem in AI systems.
 
 ---
 
-### 🛠️ Tech Stack
-
-Here are my favorite toys:
+### 🛠️ Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <br/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%2FBash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ---
 
-### 🎯 My Roadmap
+### 🎯 Roadmap
 
-My current focus and where I see myself in the future:
-
-* 🐣 **Now:** Backend Architectures, Data Structures & Algorithms
-* 🐥 **Soon:** Cloud & DevOps world
-* 🦅 **Future:** Software Architecture
+* 🐣 **Now:** Backend architecture, clean system design, AI integration
+* 🐥 **Soon:** TypeScript, Go
+* 🦅 **Future:** Building production-grade AI-powered backend systems
 
 ---
-
-<div align="center">
-  <p><i>If you want to get in touch or check out my projects:</i></p>
-  
-  <a href="https://www.linkedin.com/in/myigityilmaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:myigity.my@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
