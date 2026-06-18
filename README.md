@@ -1,16 +1,24 @@
 # Hi, I'm Yiğit! 👋
-
 **Backend Developer | AI-Integrated Systems**
 
-I'm into backend development and software architecture — how systems are structured, how services communicate, and what actually makes code maintainable. I spend most of my time thinking about those problems. On the side, I've been integrating AI models into backend systems: local inference, RAG pipelines, fine-tuning. Not as the main thing, but as a natural extension of building smarter backends.
+I'm into backend development and software architecture — how systems are structured,
+how services communicate, and what actually makes code maintainable.
+I spend most of my time thinking about those problems.
+On the side, I've been integrating AI models into backend systems:
+local inference, RAG pipelines, fine-tuning.
+Not as the main thing, but as a natural extension of building smarter backends.
 
 ---
 
 ### 🚀 What I'm Exploring
 
-- **Backend Architecture:** Designing clean, maintainable systems with solid separation of concerns and well-thought-out service boundaries.
-- **AI Integration:** Embedding models into backend pipelines — RAG, local inference with Ollama, and fine-tuning for domain-specific tasks.
-- **Systems Thinking:** Understanding what happens under the hood — from how vector databases index embeddings to why context management is the real hard problem in AI systems.
+- **Backend Architecture:** Designing clean, maintainable systems with solid separation
+  of concerns and well-thought-out service boundaries.
+- **AI Integration:** Embedding models into backend pipelines — RAG,
+  local inference with Ollama, and fine-tuning for domain-specific tasks.
+- **Systems Thinking:** Understanding what happens under the hood — from how vector
+  databases index embeddings to why context management is the real hard problem
+  in AI systems.
 
 ---
 
@@ -30,8 +38,14 @@ I'm into backend development and software architecture — how systems are struc
 
 ### 🎯 Roadmap
 
-* 🐣 **Now:** Backend architecture, clean system design, AI integration
-* 🐥 **Soon:** TypeScript, Go
-* 🦅 **Future:** Building production-grade AI-powered backend systems
+* 🐣 **Now:** Spring Boot · PostgreSQL · REST API design · Docker · CI/CD
+* 🐥 **Soon:** Redis · Kafka · Kubernetes · AWS · Go (for [LinkPulse](#))
+* 🦅 **Future:** Production-grade AI-powered backend systems
 
 ---
+
+### 📌 Currently
+
+- 🏢 **Microsoft AI Innovators Summer Internship** — working on real AI projects
+- 📚 **3rd year CS @ Dokuz Eylül University** — Computer Engineering
+- 🔨 **Building:** Spring Boot foundations → production backend roadmap
