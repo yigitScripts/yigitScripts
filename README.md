@@ -39,7 +39,7 @@ Not as the main thing, but as a natural extension of building smarter backends.
 ### 🎯 Roadmap
 
 * 🐣 **Now:** Spring Boot · PostgreSQL · REST API design · Docker · CI/CD
-* 🐥 **Soon:** Redis · Kafka · Kubernetes · AWS · Go (for [LinkPulse](#))
+* 🐥 **Soon:** Redis · Kafka · Kubernetes · AWS · Go
 * 🦅 **Future:** Production-grade AI-powered backend systems
 
 ---
