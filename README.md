@@ -33,7 +33,7 @@ intersection of traditional systems and AI-integrated ones.
 - RAG pipelines · Local inference
 
 **Tooling**
-- Git . Linux
+- Git · Linux
 
 ---
 
