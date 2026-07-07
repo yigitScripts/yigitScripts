@@ -1,24 +1,39 @@
 # Hi, I'm Yiğit! 👋
 **Backend Developer | AI-Integrated Systems**
 
-I'm into backend development and software architecture — how systems are structured,
-how services communicate, and what actually makes code maintainable.
-I spend most of my time thinking about those problems.
-On the side, I've been integrating AI models into backend systems:
-local inference, RAG pipelines, fine-tuning.
-Not as the main thing, but as a natural extension of building smarter backends.
+Computer Engineering student at Dokuz Eylül University. I like understanding
+how things actually work under the hood — whether that's a service layer,
+a database query plan, or a RAG pipeline.
+
+Long-term goal: becoming a backend engineer who can comfortably work at the
+intersection of traditional systems and AI-integrated ones.
 
 ---
 
-### 🚀 What I'm Exploring
+### 🚀 What I'm Focused On
 
-- **Backend Architecture:** Designing clean, maintainable systems with solid separation
-  of concerns and well-thought-out service boundaries.
-- **AI Integration:** Embedding models into backend pipelines — RAG,
-  local inference with Ollama, and fine-tuning for domain-specific tasks.
-- **Systems Thinking:** Understanding what happens under the hood — from how vector
-  databases index embeddings to why context management is the real hard problem
-  in AI systems.
+- **Backend Architecture:** Designing clean, maintainable systems with solid
+  separation of concerns, RESTful API design, and well-thought-out service boundaries
+  using Spring Boot and PostgreSQL.
+- **AI Integration:** Embedding models into backend pipelines — RAG and local
+  inference — as an extension of backend engineering, not a separate track.
+
+---
+
+### 🛠️ Tools & Skills
+
+**Backend**
+- Java · Spring Core · Spring MVC · Spring Data JPA · Spring Security + JWT
+- PostgreSQL · Raw SQL · REST API Design · Bean Validation
+- JUnit5 · Mockito
+- Maven
+
+**AI / Systems**
+- Python (for AI integration)
+- RAG pipelines · Local inference
+
+**Tooling**
+- Git (advanced)
 
 ---
 
@@ -31,21 +46,12 @@ Not as the main thing, but as a natural extension of building smarter backends.
   <br/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%2FBash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
-
----
-
-### 🎯 Roadmap
-
-* 🐣 **Now:** Spring Boot · PostgreSQL · REST API design · Docker · CI/CD
-* 🐥 **Soon:** Redis · Kafka · Kubernetes · AWS · Go
-* 🦅 **Future:** Production-grade AI-powered backend systems
 
 ---
 
 ### 📌 Currently
 
-- 🏢 **Microsoft AI Innovators Summer Internship** — working on real AI projects
+- 🏢 **Microsoft AI Innovators Summer Internship** — building a Foundry Local RAG project
 - 📚 **3rd year CS @ Dokuz Eylül University** — Computer Engineering
-- 🔨 **Building:** Spring Boot foundations → production backend roadmap
+- 🔨 **Building:** Personal Finance Management API (Spring Boot, pure backend)
