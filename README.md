@@ -1,12 +1,12 @@
 # Hi, I'm Yiğit 👋
 
-**Computer Engineering Student | AI Systems**
+**Computer Engineering Student @ Dokuz Eylül University | AI Systems**
 
-I build AI systems end to end: from data and models to the code that makes them reliable in the real world. My focus is **computer vision and perception**, with a growing interest in reinforcement learning and in making models run fast on real hardware.
+I'm a student focused on **artificial intelligence**, learning to build AI systems end to end: from data and models to the code that makes them reliable. I'm still early on the path and enjoy going deep: algorithms, measurement and making things actually work.
 
 ### 🔭 Currently
-- **Computer Vision Member @ IEEE DEOS**: perception for our Teknofest autonomous vehicle (lane following, traffic sign and object detection, segmentation)
-- Going deeper in **Python** and learning **C++** for performance-critical AI
+- **AI unit @ IEEE DEOS**: working on perception for our Teknofest autonomous vehicle
+- Going deeper in **Python** and learning **C++** to build a solid base in AI systems
 - **Volunteer Fellow @ Agora Labs**: a community in İzmir around defense tech, AI and deep-tech startups
 
 ### 🛠️ Selected work
