@@ -1,57 +1,25 @@
-# Hi, I'm Yiğit! 👋
-**Backend Developer | AI-Integrated Systems**
+# Hi, I'm Yiğit 👋
 
-Computer Engineering student at Dokuz Eylül University. I like understanding
-how things actually work under the hood — whether that's a service layer,
-a database query plan, or a RAG pipeline.
+**Computer Engineering Student | AI Systems**
 
-Long-term goal: becoming a backend engineer who can comfortably work at the
-intersection of traditional systems and AI-integrated ones.
+I build AI systems end to end: from data and models to the code that makes them reliable in the real world. My focus is **computer vision and perception**, with a growing interest in reinforcement learning and in making models run fast on real hardware.
 
----
+### 🔭 Currently
+- **Computer Vision Member @ IEEE DEOS**: perception for our Teknofest autonomous vehicle (lane following, traffic sign and object detection, segmentation)
+- Going deeper in **Python** and learning **C++** for performance-critical AI
+- **Volunteer Fellow @ Agora Labs**: a community in İzmir around defense tech, AI and deep-tech startups
 
-### 🚀 What I'm Focused On
+### 🛠️ Selected work
+| Project | What it is |
+|---|---|
+| [**Local RAG AI Assistant**](https://github.com/yigitScripts/rag-assistant) | Fully offline question answering on Microsoft Foundry Local (Microsoft AI Innovators Internship). On-device LLM and embeddings, SQLite vector store, a three-tier relevance gate calibrated from measured score distributions, and a 23-query evaluation suite. |
+| [**News Article Search Engine**](https://github.com/yigitScripts/News-Article-Search-Engine) | In-memory retrieval over 28,600+ articles with an inverted index on a from-scratch hash table, benchmarking hashing and collision strategies. |
+| [**Graphs in Bioinformatics**](https://github.com/yigitScripts/GRAPHS-IN-BIOINFORMATICS) | Custom graph ADT over 600MB+ protein interaction networks with BFS/DFS, topology metrics and confidence-weighted pathfinding. |
 
-- **Backend Architecture:** Designing clean, maintainable systems with solid
-  separation of concerns, RESTful API design, and well-thought-out service boundaries
-  using Spring Boot and PostgreSQL.
-- **AI Integration:** Embedding models into backend pipelines — RAG and local
-  inference — as an extension of backend engineering, not a separate track.
+### 🧰 Stack
+**Languages:** Python · Java · C · C#  
+**AI & ML:** PyTorch · OpenCV · NumPy · Computer Vision · RAG · Embeddings & Vector Search · On-Device LLM Inference  
+**Tools:** Git · Linux · Bash · SQLite · PostgreSQL · Google Colab · Kaggle · Claude Code
 
----
-
-### 🛠️ Tools & Skills
-
-**Backend**
-- Java · Spring Core · Spring MVC · Spring Data JPA · Spring Security + JWT
-- PostgreSQL · Raw SQL · REST API Design · Bean Validation
-- JUnit5 · Mockito
-- Maven
-
-**AI / Systems**
-- Python (for AI integration)
-- RAG pipelines · Local inference
-
-**Tooling**
-- Git · Linux
-
----
-
-### 🛠️ Languages
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
----
-
-### 📌 Currently
-
-- 🏢 **Microsoft AI Innovators Summer Internship** — building a Foundry Local RAG project
-- 📚 **3rd year CS @ Dokuz Eylül University** — Computer Engineering
-- 🔨 **Building:** Personal Finance Management API (Spring Boot, pure backend)
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/myigityilmaz)
